@@ -1,0 +1,14 @@
+[
+    {
+        "name": "dinner",
+        "category": "food",
+        "amount": 200.0,
+        "date": "2025-12-16"
+    },
+    {
+        "name": "breakfast",
+        "category": "food",
+        "amount": 400.0,
+        "date": "2025-12-16"
+    }
+]
