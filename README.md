@@ -15,3 +15,16 @@ The project is structured around multiple functions to maintain clean and readab
 This project was developed as the final project for CS50’s Introduction to Programming with Python (CS50P). It reflects the use of concepts learned throughout the course, including conditionals, loops, file I/O, error handling, and unit testing. The simplicity of the interface combined with practical functionality makes this project both beginner-friendly and suitable for real-world use.
 
 Overall, the Personal Expense Tracker serves as a practical tool for managing personal finances and a strong portfolio project that highlights problem-solving skills, Python proficiency, and software design fundamentals.
+
+
+## 📜 License
+
+This project is licensed under the ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)  
+
+
+
+## 👨‍💻 Author
+
+**Najmul Alam Efti**
+
+🎓 Premier University, Chittagong
